@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋, I'm Poorvi Varshney
+
+👩‍💻 whoami
+
+Hi, I'm Poorvi Varshney, a passionate self-taught Full Stack Web Developer from India. I love to know how stuff works internally and enjoy tweaking it in order to learn more. Apart from Web development, I also have interest working with machine learning and Artificial Intelligence.
+
+I am also a competitive programmer. Participating in programming contests has improved my problem-solving skills and also sharpen my data structures and algorithms in a fun competitive way.
 
 <!--
 **poorvi-98/poorvi-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
